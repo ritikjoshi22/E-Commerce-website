@@ -2,4 +2,4 @@
 
 E-commerce website demo using MERN stack.
 
-Cloning E-commerce website
+Cloning
